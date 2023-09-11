@@ -97,7 +97,6 @@ PACKAGE
 
 # Diagramas
 
-![image](https://github.com/viniciusdsandrade/Gen66_EcoSwap/assets/140617264/5c27599b-87b7-4531-b795-915b2d2d67d8)
 
 ## Demonstração
 
