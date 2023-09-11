@@ -63,7 +63,6 @@ Sinta-se à vontade para explorar nosso código, aprender com nossos exemplos e 
 
 Dê um fork nesse repositório e se você puder nos dê uma estrelinha! ⭐
 
-![image](https://github.com/viniciusdsandrade/Gen66_EcoSwap/assets/140617264/a8f7b5a8-9e9e-428c-89f7-0db618d710dd)
 
 
 Clone o projeto
