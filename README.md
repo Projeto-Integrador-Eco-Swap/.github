@@ -68,7 +68,7 @@ Dê um fork nesse repositório e se você puder nos dê uma estrelinha! ⭐
 Clone o projeto
 
 ```bash
-  git clone https://github.com/viniciusdsandrade/Gen66_EcoSwap
+
 ```
 # Como esta organizado o projeto?
 
